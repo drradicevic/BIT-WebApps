@@ -10,5 +10,5 @@ button.addEventListener("click", function () {
       p.textContent = joke;
       divWrapp.appendChild(p);
     });
-  divWrapp.textContent = "";
+  divWrapp.textContent = " ";
 });
